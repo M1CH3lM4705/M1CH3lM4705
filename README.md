@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michel-matos-de-oliveira-a36056191/)](https://www.linkedin.com/in/michel-matos-de-oliveira-a36056191/)
 
 ### Sobre mim
-Eu sou um desenvolvedor {backend, frontend e mobile} na [@Supel](https://www.supel.ro.gov.br/).
+Eu sou um desenvolvedor {backend, frontend e mobile} na [@CGE](https://rondonia.ro.gov.br/cge//).
 
 
 - [Website](https://michelmatos.vercel.app/) 💻 - Trabalhando nisso....
