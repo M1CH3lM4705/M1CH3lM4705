@@ -15,7 +15,7 @@ Eu sou um desenvolvedor {backend, frontend e mobile} na [@CGE](https://rondonia.
   <!-- Change the `github-readme-stats.M1CH3lM4705.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CH3lM4705&&theme=dark&langs_count=8" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/M1CH3lM4705/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1CH3lM4705&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="My github stats" />
 </a> 
 
